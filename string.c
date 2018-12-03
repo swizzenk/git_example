@@ -17,7 +17,8 @@ int main(void)
    {
       "Zone2",
       "Git tutorials yyyyyyy",
-      "Tutorials Point xxxxx"
+      "Tutorials Point xxxxx",
+      "Add another syntax"
    };
 
    for (i = 0; i < 2; ++i)
