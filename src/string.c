@@ -16,7 +16,8 @@ int main(void)
    char *s[] = 
    {
       "YYYYYY",
-      "XXXXXX"
+      "XXXXXX",
+      "ZZZZZZ"
    };
 
    for (i = 0; i < 2; ++i)
