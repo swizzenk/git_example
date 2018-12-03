@@ -15,7 +15,8 @@ int main(void)
    int i;
    char *s[] = 
    {
-      "Git tutorials yyyyyyy",
+      "YYYYYY",
+      "XXXXXX"
    };
 
    for (i = 0; i < 2; ++i)
