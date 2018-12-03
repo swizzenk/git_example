@@ -16,7 +16,6 @@ int main(void)
    char *s[] = 
    {
       "Git tutorials yyyyyyy",
-      "Tutorials Point xxxxx",
       "Add another syntax"
    };
 
