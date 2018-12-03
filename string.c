@@ -15,9 +15,7 @@ int main(void)
    int i;
    char *s[] = 
    {
-      "Zone2",
       "Git tutorials yyyyyyy",
-      "Add another syntax"
    };
 
    for (i = 0; i < 2; ++i)
