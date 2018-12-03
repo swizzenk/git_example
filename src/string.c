@@ -17,6 +17,9 @@ int main(void)
    {
       "YYYYYY",
       "XXXXXX",
+      "YYYYYY",
+      "XXXXXX",
+      "ZZZZZZ",
       "ZZZZZZ"
    };
 
