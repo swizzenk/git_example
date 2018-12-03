@@ -15,6 +15,7 @@ int main(void)
    int i;
    char *s[] = 
    {
+      "Zone2",
       "Git tutorials yyyyyyy",
       "Tutorials Point xxxxx"
    };
